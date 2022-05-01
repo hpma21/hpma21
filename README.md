@@ -1,4 +1,4 @@
-# Hector Perez Meza
+# Héctor Pérez Meza
 Full stack Python developer junior
 
 # RESUMEN PROFESIONAL
