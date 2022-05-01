@@ -4,19 +4,6 @@
 # RESUMEN PROFESIONAL
 Máster Consultoría Estratégica, Ingeniero Comercial y Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.
 
-# ANTECEDENTES ACADÉMICOS
-2022 Full stack Python apps developer trainee bootcamp - Edutecno.
-
-2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
-
-2020 Máster Consultoría Estratégica - Universitat de València.
-
-2009 English for Business - Pacific Gateway International College, Sydney, Australia
-
-2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
-
-2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
-
 # EXPERIENCIA LABORAL
 Ene 2020 - a La Fecha Subgerente control de Gestión, Andamios Santiago Ltda.
 
@@ -40,33 +27,35 @@ Jul 1998 - Dic 1998   Analista de Cuentas en el Exterior, Ministerio de relacion
 
 Ene 1995 - Jun 1998   Contador General, Asesorías Contables y Tributarias Oscar Torres de Laporte.	
 
+# ANTECEDENTES ACADÉMICOS
+2022 Full stack Python apps developer trainee bootcamp - Edutecno.
+
+2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
+
+2020 Máster Consultoría Estratégica - Universitat de València.
+
+2009 English for Business - Pacific Gateway International College, Sydney, Australia
+
+2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
+
+2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
+
 # COMPETENCIAS 
-Excel      - avanzado
+Excel      -  ⭐⭐⭐<br>
+Power BI   - *intermedio* <br>
+Access     - *intermedio*<br>
+Python3    - *intermedio*<br>
+Django     - *basico*<br>
+PostgreSQL - *basico*<br>
+MySQL      - *basico*<br>
+API Rest   - *basico*<br>
+HTML/CSS   - *basico*<br>
+Boostrap   - *basico*<br>
+Git/GitHub - *basico*<br>
 
-Power BI   - intermedio
+Ingles: intermedio (B1-B2).<br>
+Español: nativo.<br>
 
-Access     - intermedio
-
-Python3    - intermedio
-
-Django     - basico
-
-PostgreSQL - basico
-
-MySQL      - basico
-
-API Rest   - basico
-
-HTML/CSS   - basico
-
-Boostrap   - basico
-
-Git/GitHub - basico
-
-Ingles: intermedio (B1-B2).
-
-español: nativo.
-
-# Contacto
-Email : hpma.sence@gmail.com
-
+# CONTACTO
+Email : hpma.sence@gmail.com<br>
+[Twitter](https://twitter.com/hectorperezmez2)
