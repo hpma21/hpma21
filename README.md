@@ -40,15 +40,25 @@ Ene 1995 - Jun 1998   Contador General, Asesorías Contables y Tributarias Oscar
 
 # COMPETENCIAS 
 Excel      - avanzado
+
 Power BI   - intermedio
+
 Access     - intermedio
+
 Python3    - intermedio
+
 Django     - basico
+
 PostgreSQL - basico
+
 MySQL      - basico
+
 API Rest   - basico
+
 HTML/CSS   - basico
+
 Boostrap   - basico
+
 Git/GitHub - basico
 
 English language: intermediate (B1-B2).
