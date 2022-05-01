@@ -14,9 +14,11 @@ Profesional con 15 años de experiencia en Control de Gestión de empresas multi
 2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
 
 # EXPERIENCIA LABORAL
-Ene 2020 - a La Fecha Subgerente control de Gestión, Andamios Santiago Ltda.
+Ene 2020 - a La Fecha
+Subgerente control de Gestión, Andamios Santiago Ltda.
 
-Ene 2020 - a La Fecha Consultor de Planificación y Control de Gestión Comercial, Innoclinics S.A.
+Ene 2020 - a La Fecha 
+Consultor de Planificación y Control de Gestión Comercial, Innoclinics S.A.
 
 May 2013 - Mar 2016   Analista Senior de Planificación y Control de Gestión Financiero, Santander Asset Management.	
 
