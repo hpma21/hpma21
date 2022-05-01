@@ -1,4 +1,5 @@
-# Hector-Perez Meza
+# Hector Perez Meza
+<!--
 Full stack Python developer junior
 
 ## RESUMEN PROFESIONAL
@@ -41,3 +42,4 @@ Spanish language: native...
 
 # Contacto
 Email : hpma.sence@gmail.com
+-->
