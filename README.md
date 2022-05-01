@@ -62,6 +62,7 @@ Boostrap   - basico
 Git/GitHub - basico
 
 English language: intermediate (B1-B2).
+
 Spanish language: native.
 
 # Contacto
