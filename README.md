@@ -13,6 +13,8 @@ Profesional con 15 años de experiencia en Control de Gestión de empresas multi
 
 2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
 
+2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
+
 # EXPERIENCIA LABORAL
 Ene 2020 - a La Fecha Subgerente control de Gestión, Andamios Santiago Ltda.
 
