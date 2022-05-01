@@ -61,9 +61,9 @@ Boostrap   - basico
 
 Git/GitHub - basico
 
-English language: intermediate (B1-B2).
+Ingles: intermedio (B1-B2).
 
-Spanish language: native.
+español: nativo.
 
 # Contacto
 Email : hpma.sence@gmail.com
