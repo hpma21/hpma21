@@ -4,9 +4,9 @@ Full stack Python developer junior
 ## RESUMEN PROFESIONAL
 Profesional con 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la gerencia general, preparando Información relevante de la compañía, directorios y gerentes de primera línea, siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.
 
-# ANTECEDENTES ACADÉMICOS
-2022 Full stack Python apps developer trainee bootcamp - Edutecno.
-2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
+## ANTECEDENTES ACADÉMICOS
+#2022 Full stack Python apps developer trainee bootcamp - Edutecno.
+#2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
 2020 Máster Consultoría Estratégica - Universitat de València.
 2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
 
