@@ -4,7 +4,7 @@
 ## RESUMEN PROFESIONAL
 Máster Consultoría Estratégica, Ingeniero Comercial y Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.
 
-## ⚒🛠EXPERIENCIA LABORAL
+## 🧰EXPERIENCIA LABORAL
 Ene 2020 - a la fecha Subgerente control de Gestión, Andamios Santiago Ltda.<br>
 Ene 2020 - a la fecha Consultor de Planificación y Control de Gestión Comercial, Innoclinics S.A.<br>
 May 2013 - Mar 2016   Analista Senior de Planificación y Control de Gestión Financiero, Santander Asset Management.<br>
@@ -17,7 +17,7 @@ Ene 1999 - Jun 1999   Analista de Tesorería, Cervecerías Chile S.A.<br>
 Jul 1998 - Dic 1998   Analista de Cuentas en el Exterior, Ministerio de relaciones exteriores.<br>
 Ene 1995 - Jun 1998   Contador General, Asesorías Contables y Tributarias Oscar Torres de Laporte.<br>
 
-## 👨‍🎓ANTECEDENTES ACADÉMICOS
+## 🎓ANTECEDENTES ACADÉMICOS
 2022 Full stack Python apps developer trainee bootcamp - Edutecno.
 
 2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
@@ -31,17 +31,21 @@ Ene 1995 - Jun 1998   Contador General, Asesorías Contables y Tributarias Oscar
 2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
 
 ## 💻COMPETENCIAS 
-Excel      ⭐⭐⭐<br>
-Power BI   ⭐⭐<br>
-Access     ⭐⭐<br>
-Python3    ⭐<br>
-Django     ⭐<br>
-PostgreSQL ⭐<br>
-MySQL      ⭐<br>
-API Rest   ⭐<br>
-HTML/CSS   ⭐<br>
-Boostrap   ⭐<br>
-Git/GitHub ⭐<br>
+Excel      ⭐⭐⭐⭐⭐<br>
+Power poin ⭐⭐⭐⭐⭐<br>
+Word       ⭐⭐⭐⭐⭐<br>
+Access     ⭐⭐⭐<br>
+Sap        ⭐⭐⭐<br>
+JDE        ⭐⭐⭐<br>
+Python3    ⭐⭐<br>
+Django     ⭐⭐<br>
+PostgreSQL ⭐⭐<br>
+MySQL      ⭐⭐<br>
+API Rest   ⭐⭐<br>
+HTML/CSS   ⭐⭐<br>
+Boostrap   ⭐⭐<br>
+Git/GitHub ⭐⭐<br>
+       
 
 Ingles: *intermedio (B1-B2)*.<br>
 Español: *nativo.*<br>
