@@ -1,5 +1,5 @@
 # HÉCTOR PÉREZ MEZA
-### Full stack Python developer junior
+### Full stack Python developer student 
 
 ## RESUMEN PROFESIONAL
 Máster Consultoría Estratégica, Ingeniero Comercial y Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.
