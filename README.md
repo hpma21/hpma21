@@ -8,7 +8,7 @@ Máster Consultoría Estratégica, Ingeniero Comercial y Contador Auditor, con m
 Ene 2020 a la fecha - Subgerente control de Gestión, Andamios Santiago SPA.<br>
 Ene 2020 a la fecha - Consultor de Planificación y Control de Gestión Comercial, Innoclinics S.A.<br>
 May 2013 a Mar 2016 - Analista Senior de Planificación y Control de Gestión Financiero, Santander Asset Management.<br>
-Jun 2012 a Dic 2012 - Ingeniero Metas de Gestión-Departamento de planificación y gestión, Corporación Administrativa del Poder Judicial.<br>
+Jun 2012 a Dic 2012 - Ingeniero Metas de Gestión-Departamento de planificación y gestión,Corporación Administrativa del Poder Judicial.<br>
 Sep 2011 a May 2012 - Asesor de control de gestión comercial-Gerencia Comercial, Binaria, empresa Grupo CGE.<br>
 Abr 2001 a Feb 2009 - Jefe de control de gestión comercial, Megasalud S.A.<br>
 Sep 2000 a Mar 2001 - Analista de Estudios, Holding Consalud S.A.<br>
