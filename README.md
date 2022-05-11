@@ -54,6 +54,6 @@ Ingles: *intermedio (B1-B2)*.<br>
 Español: *nativo.*<br>
 
 ## 📩CONTACTO
-hpma.sence@gmail.com<br>
+haperezmeza@outlook.com<br>
 [linkedin](https://www.linkedin.com/in/h%C3%A9ctor-p%C3%A9rez-meza/)<br>
 [Twitter](https://twitter.com/hectorperezmez2)<br>
