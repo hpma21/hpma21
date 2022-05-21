@@ -2,7 +2,7 @@
 ### Full stack Python developer student 
 
 ## RESUMEN PROFESIONAL
-Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.
+Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.<br>
 Soy un amante de la tecnología y creo en el aprendizaje continuo como herramientas para poder mejorar la calidad de vida de las personas.
 Actualmente por mi pasión por trabajar con tecnologías me ha llevado a profundizar con un Diplomado Marketing Digital y Gestión Estratégica y Full stack Python apps developer trainee bootcamp, teniendo la intención de desarrollar mi carrera en esa línea.
 
@@ -33,21 +33,21 @@ Ene 1995 a Jun 1998 - Contador General, Asesorías Contables y Tributarias Oscar
 2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
 
 ## 💻COMPETENCIAS 
-Excel      ⭐⭐⭐⭐⭐<br>
-Power poin ⭐⭐⭐⭐⭐<br>
-Word       ⭐⭐⭐⭐⭐<br>
-Access     ⭐⭐⭐<br>
-Sap        ⭐⭐⭐<br>
-JDE        ⭐⭐⭐<br>
-Cubix      ⭐⭐⭐<br>
-Python3    ⭐⭐<br>
-Django     ⭐⭐<br>
-PostgreSQL ⭐⭐<br>
-MySQL      ⭐⭐<br>
-API Rest   ⭐⭐<br>
-HTML/CSS   ⭐⭐<br>
-Boostrap   ⭐⭐<br>
-Git/GitHub ⭐⭐<br>
+Excel:     Avanzado<br>
+Power poin: Avanzado<br>
+Word:       Avanzado<br>
+Access:    intermedio<br>
+Sap:        intermedio<br>
+JDE:        intermedio<br>
+Cubix :     intermedio<br>
+Python3 :   basico<br>
+Django  :   basico<br>
+PostgreSQL: basico<br>
+MySQL:      basico<br>
+API Rest  : basico<br>
+HTML/CSS  : basico<br>
+Boostrap   :basico<br>
+Git/GitHub :basico<br>
        
 
 Ingles: *intermedio (B1-B2)*.<br>
