@@ -55,5 +55,5 @@ Español: *nativo.*<br>
 
 ## 📩CONTACTO
 haperezmeza@outlook.com<br>
-[linkedin](https://www.linkedin.com/in/h%C3%A9ctor-p%C3%A9rez-meza/)<br>
+[linkedin](www.linkedin.com/in/hector-perez-meza/)<br>
 [Twitter](https://twitter.com/hectorperezmez2)<br>
