@@ -41,6 +41,7 @@ Sap:        intermedio<br>
 JDE:        intermedio<br>
 Cubix :     intermedio<br>
 Python3 :   basico<br>
+JavaScript :Intermedio<br>
 Django  :   basico<br>
 PostgreSQL: basico<br>
 MySQL:      basico<br>
@@ -48,6 +49,7 @@ API Rest  : basico<br>
 HTML/CSS  : basico<br>
 Boostrap   :basico<br>
 Git/GitHub :basico<br>
+Metodologías ágiles :Intermedio <br>
        
 
 Ingles: *intermedio (B1-B2)*.<br>
