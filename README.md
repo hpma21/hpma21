@@ -8,11 +8,10 @@ Actualmente por mi pasión por trabajar con tecnologías me ha llevado a profund
 
 ## 🧰EXPERIENCIA LABORAL
 Ene 2020 a la fecha - Subgerente control de Gestión - Andamios Santiago SPA.<br>
-Ene 2020 a la fecha - Consultor de Planificación y Control de Gestión Comercial - Innoclinics S.A.<br>
 May 2013 a Mar 2016 - Analista Senior de Planificación y Control de Gestión Financiero - Santander Asset Management.<br>
 Jun 2012 a Dic 2012 - Ingeniero Metas de Gestión,Departamento planificación y gestión - CAPJ - Poder Judicial .<br>
 Sep 2011 a May 2012 - Asesor de control de gestión comercial-Gerencia Comercial - Binaria - empresa Grupo CGE.<br>
-Abr 2001 a Feb 2009 - Jefe de control de gestión comercial- Holding Consalud S.A. - Megasalud S.A.<br>
+Abr 2001 a Feb 2009 - Jefe de control de gestión comercial - Megasalud S.A.- empresa Holding Consalud S.A.<br>
 Sep 2000 a Mar 2001 - Analista de Estudios - Holding Consalud S.A.<br>
 Jul 1999 a Ago 2000 - Ejecutivo de empresas - Holding Consalud S.A.<br>
 Ene 1999 a Jun 1999 - Analista de Tesorería - Cervecerías Chile S.A.<br>
@@ -20,17 +19,22 @@ Jul 1998 a Dic 1998 - Analista de Cuentas en el Exterior - Ministerio de relacio
 Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Oscar Torres de Laporte.<br>
 
 ## 🎓ANTECEDENTES ACADÉMICOS
+
+2023 Especialización en extensionismo digital y tecnológico - Universidad de Talca.
+
 2022 Full stack Python apps developer trainee bootcamp - Edutecno.
 
 2022 Diplomado Marketing Digital y Gestión Estratégica - AIEP de la Universidad Andrés Bello.
 
 2020 Máster Consultoría Estratégica - Universitat de València.España.
 
-2009 English for Business - Pacific Gateway International College, Sydney, Australia
+2010 English for Business - Pacific Gateway International College, Sydney, Australia
 
 2006 Ingeniero Comercial - Universidad Tecnológica Metropolitana.
 
 2006 Licenciado en Ciencias de la Administración de Empresas - Universidad Tecnológica Metropolitana.
+
+2000 Contador Auditor -Esucomex.
 
 ## 💻COMPETENCIAS 
 Excel:     Avanzado<br>
@@ -45,7 +49,7 @@ MySQL:      intermedio<br>
 SQLServer:  intermedio<br>
 JavaScript :Intermedio<br>
 Metodologías ágiles :Intermedio <br>
-Python3 :   basico<br>
+Python3 :   Intermedioo<br>
 Django  :   basico<br>
 API Rest  : basico<br>
 HTML/CSS  : basico<br>
