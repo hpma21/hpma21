@@ -26,7 +26,7 @@ Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Osca
 
 2024 Análisis de Datos – Google - Talento Digital-(cursando actualmente).
 
-2023 Planificación y gestión estratégica para PYME– Pontificia Universidad Católica de Chile.
+2023 Planificación y gestión estratégica para PYME – Pontificia Universidad Católica de Chile.
 
 2023 Especialización en extensionismo digital y tecnológico - Universidad de Talca.
 
