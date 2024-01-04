@@ -1,13 +1,17 @@
 # HÉCTOR PÉREZ MEZA
-### Full stack Python developer student 
+### Máster Consultoría Estratégica - Ingeniero Comercial
+Licenciado en Ciencias de la Administración de Empresas-Contador Auditor
+
+Full stack Python developer student 
 
 ## RESUMEN PROFESIONAL
-Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 15 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, desarrollando diferentes funciones de apoyo a la Gerencia General, preparando Información relevante de la compañía, Directorios y Gerentes de Primer Línea. Siendo parte integral en diferentes equipos de trabajo para la elaboración de proyectos de desarrollo de sistemas de información e inteligencia del negocio.<br>
+Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 16 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, descreador de herramientas que facilitan la administración de clientes, optimización de la gestión comercial, seguimiento de planificación estratégica, análisis y campañas para aumentar los ingresos y reducir costos. Líder positivo y empático, resiliente e innovador. Con una clara orientación al logro de objetivos y resultados.<br>
 Soy un amante de la tecnología y creo en el aprendizaje continuo como herramientas para poder mejorar la calidad de vida de las personas.
 Actualmente por mi pasión por trabajar con tecnologías me ha llevado a profundizar con un Diplomado Marketing Digital y Gestión Estratégica y Full stack Python apps developer trainee bootcamp, teniendo la intención de desarrollar mi carrera en esa línea.
 
 ## 🧰EXPERIENCIA LABORAL
-Ene 2020 a la fecha - Subgerente control de Gestión - Andamios Santiago SPA.<br>
+Mar 2023 a Sep 2023 - Contralor Financiero - AFP Modelo<br>
+Ene 2020 a Feb 2023 - Subgerente control de Gestión - Andamios Santiago SPA.<br>
 May 2013 a Mar 2016 - Analista Senior de Planificación y Control de Gestión Financiero - Santander Asset Management.<br>
 Jun 2012 a Dic 2012 - Ingeniero Metas de Gestión,Departamento planificación y gestión - CAPJ - Poder Judicial .<br>
 Sep 2011 a May 2012 - Asesor de control de gestión comercial-Gerencia Comercial - Binaria - empresa Grupo CGE.<br>
@@ -19,6 +23,10 @@ Jul 1998 a Dic 1998 - Analista de Cuentas en el Exterior - Ministerio de relacio
 Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Oscar Torres de Laporte.<br>
 
 ## 🎓ANTECEDENTES ACADÉMICOS
+
+2024 Análisis de Datos – Google - Talento Digital-(cursando actualmente).
+
+2023 Planificación y gestión estratégica para PYME– Pontificia Universidad Católica de Chile.
 
 2023 Especialización en extensionismo digital y tecnológico - Universidad de Talca.
 
@@ -63,5 +71,5 @@ Español: *nativo.*<br>
 
 ## 📩CONTACTO
 haperezmeza@outlook.com<br>
-[linkedin](https://www.linkedin.com/in/hector-perez-meza/)<br>
+[linkedin](https://www.linkedin.com/in/hector-perez-meza)<br>
 [Twitter](https://twitter.com/hectorperezmez2)<br>
