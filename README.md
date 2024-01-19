@@ -1,8 +1,8 @@
 # HÉCTOR PÉREZ MEZA
 ### Máster Consultoría Estratégica - Ingeniero Comercial
-Licenciado en Ciencias de la Administración de Empresas-Contador Auditor
+### Licenciado en Ciencias de la Administración de Empresas-Contador Auditor
 
-Full stack Python developer student 
+Full stack Python developer -Analista de Datos student 
 
 ## RESUMEN PROFESIONAL
 Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 16 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, descreador de herramientas que facilitan la administración de clientes, optimización de la gestión comercial, seguimiento de planificación estratégica, análisis y campañas para aumentar los ingresos y reducir costos. Líder positivo y empático, resiliente e innovador. Con una clara orientación al logro de objetivos y resultados.<br>
@@ -23,6 +23,8 @@ Jul 1998 a Dic 1998 - Analista de Cuentas en el Exterior - Ministerio de relacio
 Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Oscar Torres de Laporte.<br>
 
 ## 🎓ANTECEDENTES ACADÉMICOS
+
+2024 Diplomado Diseño y Gestión Ágil de Proyectos – Universidad de Playa Ancha -Talento Digital (cursando actualmente). 
 
 2024 Análisis de Datos – Google - Talento Digital-(cursando actualmente).
 
@@ -51,19 +53,19 @@ Word:       Avanzado<br>
 Access:    intermedio<br>
 Sap:        intermedio<br>
 JDE:        intermedio<br>
-Cubix :     intermedio<br>
+Cubix:      intermedio<br>
 PostgreSQL: intermedio<br>
 MySQL:      intermedio<br>
 SQLServer:  intermedio<br>
-JavaScript :Intermedio<br>
+JavaScript: Intermedio<br>
 Metodologías ágiles :Intermedio <br>
-Python3 :   Intermedioo<br>
-Django  :   basico<br>
-API Rest  : basico<br>
-HTML/CSS  : basico<br>
-Boostrap   :basico<br>
-Git/GitHub :basico<br>
-
+Python3:    Intermedioo<br>
+Django:     basico<br>
+API Rest:   basico<br>
+HTML/CSS:   basico<br>
+Boostrap:   basico<br>
+Git/GitHub: basico<br>
+R:          basico<br>
        
 
 Ingles: *intermedio (B1-B2)*.<br>
