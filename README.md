@@ -2,12 +2,11 @@
 ### Máster Consultoría Estratégica - Ingeniero Comercial
 ### Licenciado en Ciencias de la Administración de Empresas-Contador Auditor
 
-Full stack Python developer -Analista de Datos student 
-
+Full stack Python developer -Analista de Datos student -Ciencia de Datos student
 ## RESUMEN PROFESIONAL
 Máster Consultoría Estratégica, Ingeniero Comercial , Contador Auditor, con más de 16 años de experiencia en Control de Gestión de empresas multinacionales, nacionales y públicas, descreador de herramientas que facilitan la administración de clientes, optimización de la gestión comercial, seguimiento de planificación estratégica, análisis y campañas para aumentar los ingresos y reducir costos. Líder positivo y empático, resiliente e innovador. Con una clara orientación al logro de objetivos y resultados.<br>
 Soy un amante de la tecnología y creo en el aprendizaje continuo como herramientas para poder mejorar la calidad de vida de las personas.
-Actualmente por mi pasión por trabajar con tecnologías me ha llevado a profundizar con un Diplomado Marketing Digital y Gestión Estratégica y Full stack Python apps developer trainee bootcamp, teniendo la intención de desarrollar mi carrera en esa línea.
+Actualmente por mi pasión por trabajar con tecnologías me ha llevado a profundizar con un Diplomado Marketing Digital y Gestión Estratégica y Full stack Python apps developer trainee bootcamp,Analsis de Datos Google y ciencia de datos , teniendo la intención de desarrollar mi carrera en esa línea.
 
 ## 🧰EXPERIENCIA LABORAL
 Mar 2023 a Sep 2023 - Contralor Financiero - AFP Modelo<br>
@@ -25,6 +24,8 @@ Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Osca
 ## 🎓ANTECEDENTES ACADÉMICOS
 
 2024 Diplomado Diseño y Gestión Ágil de Proyectos – Universidad de Playa Ancha -Talento Digital (cursando actualmente). 
+
+2024 Ciencia de Datos  -Talento Digital (cursando actualmente).
 
 2024 Análisis de Datos – Google - Talento Digital.
 
