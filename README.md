@@ -23,7 +23,7 @@ Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Osca
 
 ## 🎓ANTECEDENTES ACADÉMICOS
 
-2024 Diplomado Diseño y Gestión Ágil de Proyectos – Universidad de Playa Ancha -Talento Digital (cursando actualmente). 
+2024 Diplomado Diseño y Gestión Ágil de Proyectos – Universidad de Playa Ancha -Talento Digital. 
 
 2024 Ciencia de Datos  -Talento Digital (cursando actualmente).
 
@@ -60,7 +60,7 @@ MySQL:      intermedio<br>
 SQLServer:  intermedio<br>
 JavaScript: Intermedio<br>
 Metodologías ágiles :Intermedio <br>
-Python3:    Intermedioo<br>
+Python3:    Intermedio<br>
 Django:     basico<br>
 API Rest:   basico<br>
 HTML/CSS:   basico<br>
