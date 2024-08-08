@@ -25,7 +25,7 @@ Ene 1995 a Jun 1998 - Contador General - Asesorías Contables y Tributarias Osca
 
 2024 Diplomado Diseño y Gestión Ágil de Proyectos – Universidad de Playa Ancha -Talento Digital. 
 
-2024 Ciencia de Datos  -Talento Digital (cursando actualmente).
+2024 Ciencia de Datos  -Talento Digital.
 
 2024 Análisis de Datos – Google - Talento Digital.
 
@@ -67,7 +67,14 @@ HTML/CSS:   basico<br>
 Boostrap:   basico<br>
 Git/GitHub: basico<br>
 R:          basico<br>
-       
+Análisis Exploratorio y Programación Estadistica<br>
+Aprendizaje de Maquina No Supervisado<br>
+Aprendizaje de Maquina Supervisado<br>
+Fundamentos de Big Data<br>
+Fundamentos de Deep Learning<br>
+Fundamentos de Programacion en PYTHON<br>
+Inferencia Estadística <br>
+Obtención y Preparación de Datos<br>
 
 Ingles: *intermedio (B1-B2)*.<br>
 Español: *nativo.*<br>
